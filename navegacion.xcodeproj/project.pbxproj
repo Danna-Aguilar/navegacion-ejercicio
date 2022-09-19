@@ -12,6 +12,8 @@
 		3D2DEC4328D8B558007D2E39 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D2DEC4128D8B558007D2E39 /* Main.storyboard */; };
 		3D2DEC4528D8B55A007D2E39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D2DEC4428D8B55A007D2E39 /* Assets.xcassets */; };
 		3D2DEC4828D8B55A007D2E39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D2DEC4628D8B55A007D2E39 /* LaunchScreen.storyboard */; };
+		3D2DEC5028D8B5E7007D2E39 /* RosaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2DEC4F28D8B5E7007D2E39 /* RosaController.swift */; };
+		3D2DEC5228D8C5A5007D2E39 /* VerdeController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2DEC5128D8C5A5007D2E39 /* VerdeController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		3D2DEC4428D8B55A007D2E39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D2DEC4728D8B55A007D2E39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D2DEC4928D8B55A007D2E39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D2DEC4F28D8B5E7007D2E39 /* RosaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RosaController.swift; sourceTree = "<group>"; };
+		3D2DEC5128D8C5A5007D2E39 /* VerdeController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerdeController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				3D2DEC4428D8B55A007D2E39 /* Assets.xcassets */,
 				3D2DEC4628D8B55A007D2E39 /* LaunchScreen.storyboard */,
 				3D2DEC4928D8B55A007D2E39 /* Info.plist */,
+				3D2DEC4F28D8B5E7007D2E39 /* RosaController.swift */,
+				3D2DEC5128D8C5A5007D2E39 /* VerdeController3.swift */,
 			);
 			path = navegacion;
 			sourceTree = "<group>";
@@ -136,6 +142,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D2DEC4028D8B558007D2E39 /* ViewController.swift in Sources */,
+				3D2DEC5028D8B5E7007D2E39 /* RosaController.swift in Sources */,
+				3D2DEC5228D8C5A5007D2E39 /* VerdeController3.swift in Sources */,
 				3D2DEC3E28D8B558007D2E39 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
