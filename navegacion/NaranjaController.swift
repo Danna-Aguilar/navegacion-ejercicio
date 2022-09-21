@@ -1,23 +1,21 @@
 //
-//  VerdeController3.swift
+//  NaranjaController.swift
 //  navegacion
 //
-//  Created by Alumno on 19/09/22.
+//  Created by Alumno on 21/09/22.
 //  Copyright © 2022 Sebastian Encinas. All rights reserved.
 //
 
-
 import UIKit
 
-class VerdeController3: UIViewController {
+class NaranjaController: UIViewController {
     
     override func viewDidLoad() {
         
         super.viewDidLoad()
     }
-    @IBAction func doTapRegresar(_ sender: Any) {
-        
+    
+    @IBAction func doTapBackk(_ sender: Any) {
         self.dismiss(animated: true, completion: nil)
     }
-    
 }
